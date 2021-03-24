@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Jihye Jun aka Gia
-- 👀 I’m interested in UI dev./Frontend dev.
-- 🌱 I’m mostly using sementic html, css, scss, jQuery and so on.
+- 👀 I’m interested in **UI dev./Frontend dev.**
+- 🌱 I’m mostly using *sementic html, css, scss, jQuery* and so on.
 - 📫 If you want to know more about me, click here 👉 https://www.notion.so/8fcdb32f7dd044909236f0eaf5b3a99d
 - 👇 Below are preview of my works 
     1. Tiffany&Co. https://gia-world.github.io/project3/
