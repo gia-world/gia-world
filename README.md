@@ -10,7 +10,7 @@ The countries I've lived : Korea, China, Middle-east
     <img src="https://img.shields.io/badge/@gia_jihye-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://aboveimagine.tistory.com/">
-    <img src="https://img.shields.io/badge/log-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 <a href="https://www.notion.so/Gia-Jihye-Jun-the-UI-developer-31cceb5eb0a348258000598f05fc1bd7">
     <img src="https://img.shields.io/badge/CV-000000?style=flat-square&logo=Notion&logoColor=white"/>
