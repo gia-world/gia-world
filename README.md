@@ -29,7 +29,7 @@ The countries I've lived : Korea, China, Middle-east
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<br><br>
+<br><br><br>
 
 [![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=gia-world)](https://github.com/gia-world/github-readme-stats)
 </div>
